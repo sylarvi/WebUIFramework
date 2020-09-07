@@ -1,0 +1,92 @@
+2020-09-03 15:34:47,352 - BrowserEngine.py[line:31] - BrowserEngine - INFO - 当前选择测试的浏览器为：Chrome
+2020-09-03 15:34:47,353 - BrowserEngine.py[line:33] - BrowserEngine - INFO - 当前选择测试的url地址为：https://www.bilibili.com/
+2020-09-03 15:34:49,848 - BrowserEngine.py[line:43] - BrowserEngine - INFO - Starting Chrome Browser Now
+2020-09-03 15:34:52,797 - BrowserEngine.py[line:47] - BrowserEngine - INFO - Maximize The Current Window.
+2020-09-03 15:34:52,798 - BrowserEngine.py[line:49] - BrowserEngine - INFO - Set Implicitly Wait 5s.
+2020-09-03 15:34:52,798 - test_login.py[line:19] - Loginpage - INFO - 开始执行测试用例
+2020-09-03 15:34:54,926 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:34:56,588 - BasePage.py[line:163] - BasePage - INFO - Current page title is 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+2020-09-03 15:34:56,690 - test_login.py[line:28] - Loginpage - INFO - 获取当前页面标题：哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+2020-09-03 15:34:56,698 - BasePage.py[line:72] - BasePage - INFO - get current_url successfully
+2020-09-03 15:34:56,698 - test_login.py[line:30] - Loginpage - INFO - 获取当前页面url：https://passport.bilibili.com/login
+2020-09-03 15:34:56,699 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 3 s
+2020-09-03 15:34:56,723 - BasePage.py[line:169] - BasePage - INFO - text is 登录
+2020-09-03 15:34:58,810 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:34:58,812 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 2 s
+2020-09-03 15:34:58,957 - BasePage.py[line:138] - BasePage - INFO - Had input ' 13100000000 ' in inputBox
+2020-09-03 15:34:58,958 - test_login.py[line:42] - Loginpage - INFO - 输入登录手机号为：13100000000
+2020-09-03 15:35:02,031 - BasePage.py[line:138] - BasePage - INFO - Had input ' 615337 ' in inputBox
+2020-09-03 15:35:02,031 - test_login.py[line:45] - Loginpage - INFO - 输入登录验证码为：615337
+2020-09-03 15:35:07,097 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:35:07,098 - test_login.py[line:48] - Loginpage - INFO - 点击登录按钮
+2020-09-03 15:35:10,124 - BasePage.py[line:169] - BasePage - INFO - text is 短信验证码已过期,请重新获取
+2020-09-03 15:35:10,124 - test_login.py[line:53] - Loginpage - INFO - 验证码错误登录失败
+2020-09-03 15:35:10,161 - BasePage.py[line:147] - BasePage - INFO - Clear text in input box before typing.
+2020-09-03 15:35:10,161 - test_login.py[line:58] - Loginpage - INFO - 已清除登录手机号文本框内容
+2020-09-03 15:35:12,201 - BasePage.py[line:147] - BasePage - INFO - Clear text in input box before typing.
+2020-09-03 15:35:12,201 - test_login.py[line:61] - Loginpage - INFO - 已清除登录验证码文本框内容
+2020-09-03 15:35:14,310 - BasePage.py[line:138] - BasePage - INFO - Had input ' 18713102271 ' in inputBox
+2020-09-03 15:35:14,311 - test_login.py[line:66] - Loginpage - INFO - 输入登录手机号为：18713102271
+2020-09-03 15:35:16,361 - BasePage.py[line:138] - BasePage - INFO - Had input ' 291899 ' in inputBox
+2020-09-03 15:35:16,361 - test_login.py[line:69] - Loginpage - INFO - 输入登录验证码为：291899
+2020-09-03 15:35:20,406 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:35:20,406 - test_login.py[line:72] - Loginpage - INFO - 点击登录按钮
+2020-09-03 15:35:33,568 - BasePage.py[line:91] - BasePage - ERROR - Message: 
+
+2020-09-03 15:35:36,812 - BasePage.py[line:201] - BasePage - INFO - The Browsre has closed
+2020-09-03 15:35:36,812 - test_login.py[line:81] - Loginpage - INFO - 结束执行测试用例
+2020-09-03 15:35:36,813 - BrowserEngine.py[line:31] - BrowserEngine - INFO - 当前选择测试的浏览器为：Chrome
+2020-09-03 15:35:36,813 - BrowserEngine.py[line:33] - BrowserEngine - INFO - 当前选择测试的url地址为：https://www.bilibili.com/
+2020-09-03 15:35:44,494 - BrowserEngine.py[line:43] - BrowserEngine - INFO - Starting Chrome Browser Now
+2020-09-03 15:35:57,232 - BrowserEngine.py[line:47] - BrowserEngine - INFO - Maximize The Current Window.
+2020-09-03 15:35:57,233 - BrowserEngine.py[line:49] - BrowserEngine - INFO - Set Implicitly Wait 5s.
+2020-09-03 15:35:57,233 - test_pageswitch.py[line:20] - Homepage_Switch - INFO - 开始执行测试用例
+2020-09-03 15:36:00,402 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:36:00,410 - BasePage.py[line:163] - BasePage - INFO - Current page title is 动画-哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+2020-09-03 15:36:00,413 - test_pageswitch.py[line:28] - Homepage_Switch - INFO - 获取当前页面标题：动画-哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+2020-09-03 15:36:00,422 - BasePage.py[line:72] - BasePage - INFO - get current_url successfully
+2020-09-03 15:36:00,423 - test_pageswitch.py[line:30] - Homepage_Switch - INFO - 获取当前页面url：https://www.bilibili.com/v/douga/?spm_id_from=333.851.b_7072696d6172794368616e6e656c4d656e75.1
+2020-09-03 15:36:00,424 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 3 s
+2020-09-03 15:36:00,449 - BasePage.py[line:169] - BasePage - INFO - text is MAD·AMV
+2020-09-03 15:36:03,294 - BasePage.py[line:46] - BasePage - INFO - Click Back On Current Page
+2020-09-03 15:36:03,296 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 5 s
+2020-09-03 15:36:06,323 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:36:06,333 - BasePage.py[line:163] - BasePage - INFO - Current page title is 音乐-哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+2020-09-03 15:36:06,336 - test_pageswitch.py[line:44] - Homepage_Switch - INFO - 断言关键字：音乐
+2020-09-03 15:36:08,902 - BasePage.py[line:201] - BasePage - INFO - The Browsre has closed
+2020-09-03 15:36:08,902 - test_pageswitch.py[line:51] - Homepage_Switch - INFO - 结束执行测试用例
+2020-09-03 15:36:08,903 - BrowserEngine.py[line:31] - BrowserEngine - INFO - 当前选择测试的浏览器为：Chrome
+2020-09-03 15:36:08,903 - BrowserEngine.py[line:33] - BrowserEngine - INFO - 当前选择测试的url地址为：https://www.bilibili.com/
+2020-09-03 15:36:11,415 - BrowserEngine.py[line:43] - BrowserEngine - INFO - Starting Chrome Browser Now
+2020-09-03 15:36:15,041 - BrowserEngine.py[line:47] - BrowserEngine - INFO - Maximize The Current Window.
+2020-09-03 15:36:15,042 - BrowserEngine.py[line:49] - BrowserEngine - INFO - Set Implicitly Wait 5s.
+2020-09-03 15:36:15,043 - test_search.py[line:23] - Homepage_search - INFO - 开始执行测试用例
+2020-09-03 15:36:15,087 - BasePage.py[line:163] - BasePage - INFO - Current page title is 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+2020-09-03 15:36:15,101 - test_search.py[line:30] - Homepage_search - INFO - 获取当前页面标题：哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+2020-09-03 15:36:15,137 - BasePage.py[line:72] - BasePage - INFO - get current_url successfully
+2020-09-03 15:36:15,137 - test_search.py[line:32] - Homepage_search - INFO - 获取当前页面url：https://www.bilibili.com/
+2020-09-03 15:36:16,231 - BasePage.py[line:138] - BasePage - INFO - Had input ' python ' in inputBox
+2020-09-03 15:36:16,231 - test_search.py[line:44] - Homepage_search - INFO - 输入框输入查询关键字：python
+2020-09-03 15:36:16,232 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 3 s
+2020-09-03 15:36:18,341 - BasePage.py[line:157] - BasePage - INFO - The element was clicked.
+2020-09-03 15:36:18,341 - test_search.py[line:47] - Homepage_search - INFO - 点击搜索按钮
+2020-09-03 15:36:18,342 - BasePage.py[line:78] - BasePage - INFO - implicitly wait 5 s
+2020-09-03 15:36:18,352 - test_search.py[line:50] - Homepage_search - INFO - 切换到新标签页
+2020-09-03 15:36:19,469 - BasePage.py[line:169] - BasePage - INFO - text is 综合排序
+2020-09-03 15:36:19,479 - BasePage.py[line:61] - BasePage - INFO - Page scroll successfully
+2020-09-03 15:36:19,480 - test_search.py[line:60] - Homepage_search - INFO - 完成页面滑动操作
+2020-09-03 15:36:23,117 - BasePage.py[line:201] - BasePage - INFO - The Browsre has closed
+2020-09-03 15:36:23,117 - test_search.py[line:66] - Homepage_search - INFO - 结束执行测试用例
+2020-09-03 15:36:23,118 - BrowserEngine.py[line:31] - BrowserEngine - INFO - 当前选择测试的浏览器为：Chrome
+2020-09-03 15:36:23,118 - BrowserEngine.py[line:33] - BrowserEngine - INFO - 当前选择测试的url地址为：https://www.bilibili.com/
+2020-09-03 15:36:25,568 - BrowserEngine.py[line:43] - BrowserEngine - INFO - Starting Chrome Browser Now
+2020-09-03 15:36:28,472 - BrowserEngine.py[line:47] - BrowserEngine - INFO - Maximize The Current Window.
+2020-09-03 15:36:28,473 - BrowserEngine.py[line:49] - BrowserEngine - INFO - Set Implicitly Wait 5s.
+2020-09-03 15:36:28,473 - test_writepost.py[line:18] - Writepost - INFO - 开始执行测试用例
+2020-09-03 15:36:41,506 - BasePage.py[line:91] - BasePage - ERROR - Message: 
+
+2020-09-03 15:36:41,506 - BasePage.py[line:159] - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2020-09-03 15:36:52,553 - BasePage.py[line:91] - BasePage - ERROR - Message: 
+
+2020-09-03 15:36:55,205 - BasePage.py[line:201] - BasePage - INFO - The Browsre has closed
+2020-09-03 15:36:55,205 - test_writepost.py[line:58] - Writepost - INFO - 结束执行测试用例
